@@ -1,7 +1,7 @@
 
 #Name==Version 
 
-keras==2.3.1      
+keras==3.11.0      
 numpy==1.16.4 
 pandas==0.24.2  
 scikit-learn==0.22
