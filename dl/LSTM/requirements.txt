@@ -1,9 +1,9 @@
 
 #Name==Version 
 
-keras==2.3.1      
-numpy==1.16.4 
+keras==3.11.3      
+numpy==1.22.2 
 pandas==0.24.2  
-scikit-learn==0.22
+scikit-learn==1.5.0
 tensorflow==2.0.0  
 
